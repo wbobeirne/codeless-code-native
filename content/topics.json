@@ -1,0 +1,1581 @@
+{
+  "AOP": [
+    "195"
+  ],
+  "APIs": [
+    "35",
+    "104",
+    "116",
+    "152",
+    "168",
+    "177",
+    "229"
+  ],
+  "ASCII": [
+    "114"
+  ],
+  "Agile": [
+    "202",
+    "210",
+    "212",
+    "226",
+    "227",
+    "230"
+  ],
+  "C": [
+    "176"
+  ],
+  "CSS": [
+    "95",
+    "146"
+  ],
+  "ETag": [
+    "221"
+  ],
+  "FAQ": [
+    "215",
+    "216"
+  ],
+  "FIXME": [
+    "234"
+  ],
+  "HTTP": [
+    "173",
+    "221"
+  ],
+  "Haskell": [
+    "143"
+  ],
+  "Heartbleed Bug": [
+    "140"
+  ],
+  "IDEs": [
+    "113"
+  ],
+  "IP": [
+    "173"
+  ],
+  "JDBC": [
+    "152"
+  ],
+  "JQuery": [
+    "146"
+  ],
+  "Java": [
+    "115",
+    "152",
+    "167",
+    "175",
+    "178",
+    "195",
+    "209",
+    "211",
+    "214",
+    "219",
+    "221",
+    "222"
+  ],
+  "Javascript": [
+    "90",
+    "146",
+    "183"
+  ],
+  "NaN": [
+    "90"
+  ],
+  "PHP": [
+    "161"
+  ],
+  "POLA": [
+    "222",
+    "223"
+  ],
+  "Perl": [
+    "107",
+    "132",
+    "144"
+  ],
+  "Python": [
+    "107"
+  ],
+  "QA": [
+    "182"
+  ],
+  "README": [
+    "133"
+  ],
+  "SQL": [
+    "171"
+  ],
+  "TCP": [
+    "173"
+  ],
+  "TODO": [
+    "234"
+  ],
+  "UML": [
+    "82",
+    "83",
+    "137"
+  ],
+  "UNIX": [
+    "76"
+  ],
+  "UTC": [
+    "204"
+  ],
+  "Unicode": [
+    "114"
+  ],
+  "YAGNI": [
+    "108",
+    "110",
+    "177",
+    "233"
+  ],
+  "abstraction": [
+    "117",
+    "167",
+    "177",
+    "178",
+    "231",
+    "233"
+  ],
+  "accountability": [
+    "101",
+    "106"
+  ],
+  "adapter pattern": [
+    "155"
+  ],
+  "addiction": [
+    "128"
+  ],
+  "aesthetics": [
+    "146"
+  ],
+  "ambition": [
+    "181"
+  ],
+  "annotations": [
+    "195",
+    "214",
+    "219"
+  ],
+  "anomalies": [
+    "224"
+  ],
+  "anti-patterns": [
+    "98"
+  ],
+  "architecture": [
+    "154",
+    "168"
+  ],
+  "art": [
+    "132",
+    "151"
+  ],
+  "artificial intelligence": [
+    "228"
+  ],
+  "aspiration": [
+    "207"
+  ],
+  "assembly language": [
+    "176"
+  ],
+  "assumptions": [
+    "221"
+  ],
+  "authority": [
+    "40",
+    "79",
+    "100"
+  ],
+  "autoboxing": [
+    "152"
+  ],
+  "automated testing": [
+    "7",
+    "29",
+    "44",
+    "58",
+    "142"
+  ],
+  "automation": [
+    "182"
+  ],
+  "backwards compatibility": [
+    "135"
+  ],
+  "best practices": [
+    "169"
+  ],
+  "bias": [
+    "139"
+  ],
+  "big ball of mud": [
+    "178"
+  ],
+  "big design up front": [
+    "233"
+  ],
+  "binary": [
+    "200"
+  ],
+  "binary numbers": [
+    "47"
+  ],
+  "bits": [
+    "30",
+    "166"
+  ],
+  "black boxes": [
+    "195"
+  ],
+  "bleeding edge": [
+    "194"
+  ],
+  "bloat": [
+    "177"
+  ],
+  "booleans": [
+    "20",
+    "144",
+    "200"
+  ],
+  "branching": [
+    "89"
+  ],
+  "brevity": [
+    "91",
+    "157",
+    "189",
+    "214",
+    "215"
+  ],
+  "bugs": [
+    "138",
+    "140"
+  ],
+  "cache invalidation": [
+    "220"
+  ],
+  "caching": [
+    "147",
+    "148",
+    "149",
+    "158"
+  ],
+  "cancel": [
+    "191",
+    "192"
+  ],
+  "career": [
+    "145",
+    "159",
+    "174"
+  ],
+  "challenges": [
+    "160",
+    "170",
+    "225"
+  ],
+  "change": [
+    "124",
+    "138",
+    "145",
+    "154",
+    "174",
+    "180",
+    "181",
+    "198",
+    "202",
+    "212",
+    "226"
+  ],
+  "changes": [
+    "174"
+  ],
+  "chaos": [
+    "123"
+  ],
+  "class diagrams": [
+    "82",
+    "83"
+  ],
+  "classes": [
+    "178"
+  ],
+  "clients": [
+    "173"
+  ],
+  "clues": [
+    "171"
+  ],
+  "code duplication": [
+    "227"
+  ],
+  "code reviews": [
+    "13",
+    "23",
+    "26",
+    "86",
+    "91",
+    "111",
+    "113",
+    "142",
+    "210",
+    "219"
+  ],
+  "code rot": [
+    "52",
+    "69",
+    "103"
+  ],
+  "coding standards": [
+    "156"
+  ],
+  "coding style": [
+    "178"
+  ],
+  "cohesion": [
+    "168"
+  ],
+  "collections": [
+    "205",
+    "209"
+  ],
+  "collisions": [
+    "221"
+  ],
+  "command line": [
+    "76"
+  ],
+  "comments": [
+    "39",
+    "41"
+  ],
+  "commits": [
+    "75"
+  ],
+  "communication": [
+    "112",
+    "116",
+    "133",
+    "136",
+    "157",
+    "172"
+  ],
+  "community": [
+    "170"
+  ],
+  "comparison": [
+    "161"
+  ],
+  "complexity": [
+    "33",
+    "63",
+    "85",
+    "109",
+    "110",
+    "111",
+    "112",
+    "156",
+    "160",
+    "189",
+    "214",
+    "230",
+    "233"
+  ],
+  "components": [
+    "168"
+  ],
+  "composition": [
+    "175"
+  ],
+  "compromise": [
+    "25",
+    "85",
+    "94",
+    "111",
+    "168",
+    "196",
+    "208"
+  ],
+  "confidence": [
+    "206",
+    "232"
+  ],
+  "configuration": [
+    "109"
+  ],
+  "connection pooling": [
+    "211"
+  ],
+  "consistency": [
+    "168",
+    "213"
+  ],
+  "constants": [
+    "178"
+  ],
+  "coopertation": [
+    "178"
+  ],
+  "copy-paste": [
+    "113"
+  ],
+  "cost": [
+    "118"
+  ],
+  "coupling": [
+    "168",
+    "230"
+  ],
+  "courage": [
+    "174"
+  ],
+  "craftsmanship": [
+    "122",
+    "168"
+  ],
+  "creativity": [
+    "130",
+    "159"
+  ],
+  "cryptography": [
+    "190"
+  ],
+  "culture fit": [
+    "139"
+  ],
+  "customer relations": [
+    "203"
+  ],
+  "data transfer objects": [
+    "110",
+    "115",
+    "134"
+  ],
+  "databases": [
+    "20",
+    "42",
+    "75",
+    "152"
+  ],
+  "decisions": [
+    "179"
+  ],
+  "decorator pattern": [
+    "155",
+    "209"
+  ],
+  "defects": [
+    "182"
+  ],
+  "delegation": [
+    "175"
+  ],
+  "dependencies": [
+    "37",
+    "168"
+  ],
+  "dependency injection": [
+    "211"
+  ],
+  "depression": [
+    "127"
+  ],
+  "design": [
+    "82",
+    "83",
+    "92",
+    "105",
+    "108",
+    "109",
+    "111",
+    "112",
+    "116",
+    "118",
+    "157",
+    "160",
+    "179",
+    "191",
+    "192",
+    "213",
+    "229",
+    "230",
+    "233"
+  ],
+  "design patterns": [
+    "45",
+    "82",
+    "98",
+    "155",
+    "156"
+  ],
+  "design reviews": [
+    "157",
+    "210"
+  ],
+  "detail": [
+    "157"
+  ],
+  "diagrams": [
+    "137"
+  ],
+  "discovery": [
+    "132"
+  ],
+  "distraction": [
+    "128"
+  ],
+  "documentation": [
+    "16",
+    "39",
+    "66",
+    "69",
+    "104",
+    "105",
+    "135",
+    "137",
+    "157",
+    "169",
+    "202",
+    "212",
+    "215"
+  ],
+  "dynamically-generated SQL": [
+    "171"
+  ],
+  "eager initialization": [
+    "72"
+  ],
+  "efficiency": [
+    "110",
+    "151",
+    "176",
+    "184",
+    "223"
+  ],
+  "efficiency hacks": [
+    "147",
+    "148",
+    "158"
+  ],
+  "elegance": [
+    "23",
+    "33",
+    "45",
+    "63",
+    "91",
+    "111",
+    "112",
+    "208"
+  ],
+  "empathy": [
+    "196",
+    "229"
+  ],
+  "encapsulation": [
+    "3",
+    "22",
+    "168",
+    "195"
+  ],
+  "encoding": [
+    "106",
+    "132"
+  ],
+  "encryption": [
+    "190"
+  ],
+  "engineering": [
+    "154"
+  ],
+  "error handling": [
+    "6",
+    "48",
+    "71",
+    "73",
+    "74",
+    "77",
+    "99",
+    "115",
+    "143",
+    "165",
+    "176",
+    "197",
+    "219"
+  ],
+  "exceptions": [
+    "6",
+    "71",
+    "115"
+  ],
+  "excess": [
+    "157"
+  ],
+  "experience": [
+    "149",
+    "174",
+    "193",
+    "201"
+  ],
+  "experimenting": [
+    "132"
+  ],
+  "expertise": [
+    "190"
+  ],
+  "fail-fast": [
+    "219"
+  ],
+  "failsafes": [
+    "165"
+  ],
+  "failure": [
+    "83",
+    "138",
+    "149",
+    "172"
+  ],
+  "fear": [
+    "149"
+  ],
+  "flexibility": [
+    "154"
+  ],
+  "focus": [
+    "157",
+    "206"
+  ],
+  "forgetting": [
+    "198"
+  ],
+  "fractals": [
+    "128"
+  ],
+  "frameworks": [
+    "108",
+    "109",
+    "138",
+    "183",
+    "219"
+  ],
+  "full-stack developers": [
+    "168"
+  ],
+  "functional programming": [
+    "143"
+  ],
+  "garbage collection": [
+    "209"
+  ],
+  "geek culture": [
+    "80",
+    "139"
+  ],
+  "happy path testing": [
+    "135",
+    "142"
+  ],
+  "hardening": [
+    "43",
+    "87",
+    "99"
+  ],
+  "hash codes": [
+    "221",
+    "222"
+  ],
+  "help": [
+    "170",
+    "191",
+    "192"
+  ],
+  "hidden costs": [
+    "230"
+  ],
+  "high-level languages": [
+    "93",
+    "107"
+  ],
+  "honesty": [
+    "187"
+  ],
+  "humility": [
+    "206"
+  ],
+  "idempotence": [
+    "124"
+  ],
+  "image rendering": [
+    "128"
+  ],
+  "imitation": [
+    "207"
+  ],
+  "immutability": [
+    "15",
+    "96",
+    "124"
+  ],
+  "importance": [
+    "12"
+  ],
+  "impostors": [
+    "207"
+  ],
+  "improvement": [
+    "13",
+    "26",
+    "100",
+    "113",
+    "122",
+    "172",
+    "174"
+  ],
+  "industriousness": [
+    "206"
+  ],
+  "infinity": [
+    "9",
+    "21",
+    "57"
+  ],
+  "inheritance": [
+    "83"
+  ],
+  "initialization": [
+    "72"
+  ],
+  "inquisitiveness": [
+    "206"
+  ],
+  "integers": [
+    "30",
+    "166"
+  ],
+  "integration testing": [
+    "142"
+  ],
+  "interfaces": [
+    "117",
+    "175"
+  ],
+  "internals": [
+    "195"
+  ],
+  "internationalization": [
+    "114"
+  ],
+  "interoperability": [
+    "35"
+  ],
+  "interviews": [
+    "32",
+    "82",
+    "83",
+    "159",
+    "187",
+    "193"
+  ],
+  "isomorphism": [
+    "213"
+  ],
+  "java": [
+    "232"
+  ],
+  "joy-hacking": [
+    "68",
+    "78",
+    "129",
+    "145",
+    "160",
+    "163",
+    "193"
+  ],
+  "kindness": [
+    "188"
+  ],
+  "kludges": [
+    "234"
+  ],
+  "knowledge": [
+    "232"
+  ],
+  "lambda expressions": [
+    "214"
+  ],
+  "language design": [
+    "161"
+  ],
+  "languages": [
+    "38",
+    "93",
+    "107",
+    "214"
+  ],
+  "layered architecture": [
+    "168"
+  ],
+  "laziness": [
+    "129",
+    "142",
+    "165",
+    "199",
+    "206",
+    "207",
+    "216",
+    "231"
+  ],
+  "lazy initialization": [
+    "72"
+  ],
+  "leadership": [
+    "194",
+    "201"
+  ],
+  "leading edge": [
+    "194"
+  ],
+  "learning": [
+    "183",
+    "198"
+  ],
+  "learning curve": [
+    "223"
+  ],
+  "legacy": [
+    "181",
+    "186"
+  ],
+  "lies": [
+    "201"
+  ],
+  "life": [
+    "184"
+  ],
+  "localtime": [
+    "204"
+  ],
+  "log files": [
+    "204"
+  ],
+  "logging": [
+    "73",
+    "74",
+    "103"
+  ],
+  "logic": [
+    "144"
+  ],
+  "loneliness": [
+    "127"
+  ],
+  "loops": [
+    "9",
+    "21"
+  ],
+  "low-level languages": [
+    "93"
+  ],
+  "magic constants": [
+    "178"
+  ],
+  "maintainability": [
+    "63",
+    "102",
+    "116",
+    "156",
+    "168"
+  ],
+  "management": [
+    "56",
+    "61",
+    "62",
+    "67",
+    "77",
+    "80",
+    "85",
+    "86",
+    "120",
+    "125",
+    "142",
+    "153",
+    "179",
+    "194",
+    "201",
+    "202",
+    "203"
+  ],
+  "manual testing": [
+    "142"
+  ],
+  "meetings": [
+    "141"
+  ],
+  "memorization": [
+    "198"
+  ],
+  "memory": [
+    "57"
+  ],
+  "memory leaks": [
+    "209"
+  ],
+  "mentoring": [
+    "26",
+    "86",
+    "113",
+    "172",
+    "183",
+    "188",
+    "232"
+  ],
+  "message digests": [
+    "221",
+    "222"
+  ],
+  "method references": [
+    "214"
+  ],
+  "methodologies": [
+    "226"
+  ],
+  "mistakes": [
+    "183"
+  ],
+  "mnemonics": [
+    "144"
+  ],
+  "modeling": [
+    "213"
+  ],
+  "modelling": [
+    "175"
+  ],
+  "monads": [
+    "143",
+    "232"
+  ],
+  "monitoring": [
+    "48",
+    "60"
+  ],
+  "morale": [
+    "36",
+    "77",
+    "78",
+    "80",
+    "127",
+    "160"
+  ],
+  "multiple inheritance": [
+    "83",
+    "175"
+  ],
+  "multithreading": [
+    "96"
+  ],
+  "music": [
+    "132"
+  ],
+  "naming": [
+    "34",
+    "50",
+    "84",
+    "94",
+    "95",
+    "155",
+    "175",
+    "205",
+    "220"
+  ],
+  "neatness": [
+    "32",
+    "49",
+    "111"
+  ],
+  "network": [
+    "173"
+  ],
+  "new solutions": [
+    "138",
+    "199"
+  ],
+  "nonsense": [
+    "218"
+  ],
+  "not-invented-here": [
+    "199"
+  ],
+  "null": [
+    "6",
+    "20",
+    "24",
+    "31",
+    "64",
+    "115",
+    "134"
+  ],
+  "null object pattern": [
+    "90"
+  ],
+  "null pointer exception": [
+    "115",
+    "134"
+  ],
+  "numbers": [
+    "57",
+    "90",
+    "166"
+  ],
+  "object-oriented programming": [
+    "167",
+    "175"
+  ],
+  "object-relational mapping": [
+    "134"
+  ],
+  "obsession": [
+    "128"
+  ],
+  "obsolescence": [
+    "28"
+  ],
+  "one": [
+    "20",
+    "47"
+  ],
+  "one-size-fits-all": [
+    "179"
+  ],
+  "open source": [
+    "140",
+    "195",
+    "199"
+  ],
+  "opposites": [
+    "200"
+  ],
+  "optimism": [
+    "180",
+    "181",
+    "202"
+  ],
+  "order": [
+    "123"
+  ],
+  "overflow": [
+    "30"
+  ],
+  "overloading": [
+    "64"
+  ],
+  "paradigm shifts": [
+    "143"
+  ],
+  "partial initialization": [
+    "134"
+  ],
+  "partial solutions": [
+    "97",
+    "108",
+    "109"
+  ],
+  "partially-filled objects": [
+    "213"
+  ],
+  "path of least resistance": [
+    "156"
+  ],
+  "perfection": [
+    "1",
+    "7",
+    "26",
+    "54",
+    "68",
+    "94",
+    "100",
+    "165",
+    "208"
+  ],
+  "performance reviews": [
+    "159"
+  ],
+  "persistence layer": [
+    "213"
+  ],
+  "pessimism": [
+    "180",
+    "181",
+    "202"
+  ],
+  "philosophy": [
+    "5",
+    "8",
+    "9",
+    "14",
+    "20",
+    "27",
+    "31",
+    "38",
+    "40",
+    "50",
+    "70",
+    "89",
+    "90",
+    "124",
+    "128",
+    "130",
+    "166"
+  ],
+  "planning": [
+    "56",
+    "61",
+    "77",
+    "105",
+    "111",
+    "118",
+    "120",
+    "153",
+    "154",
+    "202"
+  ],
+  "poetry": [
+    "173"
+  ],
+  "polymorphism": [
+    "64"
+  ],
+  "potential": [
+    "4",
+    "32",
+    "82",
+    "83"
+  ],
+  "power": [
+    "125"
+  ],
+  "precision": [
+    "57",
+    "166",
+    "206"
+  ],
+  "pride": [
+    "10",
+    "106",
+    "122",
+    "154"
+  ],
+  "primitives": [
+    "115"
+  ],
+  "principle of least astonishment": [
+    "222",
+    "223"
+  ],
+  "process": [
+    "11",
+    "77",
+    "118",
+    "168"
+  ],
+  "production support": [
+    "56",
+    "101",
+    "103",
+    "131",
+    "171",
+    "204",
+    "208",
+    "211",
+    "224",
+    "225"
+  ],
+  "progress": [
+    "122",
+    "138",
+    "145"
+  ],
+  "promotion": [
+    "125",
+    "159"
+  ],
+  "protocols": [
+    "173"
+  ],
+  "purpose": [
+    "127"
+  ],
+  "quality": [
+    "182"
+  ],
+  "quality assurance": [
+    "142"
+  ],
+  "quicksort": [
+    "132"
+  ],
+  "race conditions": [
+    "126",
+    "225"
+  ],
+  "readability": [
+    "176"
+  ],
+  "refactoring": [
+    "33",
+    "54",
+    "63",
+    "84",
+    "88",
+    "94",
+    "108",
+    "112",
+    "116",
+    "118",
+    "123",
+    "130",
+    "135",
+    "162",
+    "178",
+    "189",
+    "210",
+    "213",
+    "233"
+  ],
+  "reflection": [
+    "97",
+    "108"
+  ],
+  "regular expressions": [
+    "135"
+  ],
+  "requirements": [
+    "2",
+    "18",
+    "81",
+    "111",
+    "162",
+    "197",
+    "231"
+  ],
+  "resumes": [
+    "187"
+  ],
+  "rethinking": [
+    "63",
+    "88",
+    "92",
+    "116",
+    "119",
+    "123"
+  ],
+  "return statements": [
+    "176"
+  ],
+  "reusability": [
+    "229"
+  ],
+  "reuse": [
+    "10",
+    "11",
+    "17",
+    "18",
+    "22",
+    "35",
+    "78",
+    "151",
+    "177",
+    "179",
+    "227",
+    "230",
+    "233"
+  ],
+  "reviews": [
+    "202"
+  ],
+  "rollbacks": [
+    "75"
+  ],
+  "sample code": [
+    "79",
+    "113"
+  ],
+  "schedules": [
+    "153"
+  ],
+  "security": [
+    "87",
+    "99",
+    "140",
+    "190"
+  ],
+  "self-deception": [
+    "207"
+  ],
+  "selfishness": [
+    "227"
+  ],
+  "sequence diagrams": [
+    "137"
+  ],
+  "servers": [
+    "173"
+  ],
+  "servlets": [
+    "167"
+  ],
+  "shell script": [
+    "76"
+  ],
+  "simplicity": [
+    "180",
+    "214",
+    "217",
+    "233"
+  ],
+  "simulation": [
+    "37",
+    "128",
+    "184"
+  ],
+  "single inheritance": [
+    "83"
+  ],
+  "single-entry single-exit": [
+    "176"
+  ],
+  "single-responsibility principle": [
+    "117",
+    "175",
+    "217"
+  ],
+  "social media": [
+    "136"
+  ],
+  "sockets": [
+    "173"
+  ],
+  "software analysis": [
+    "182"
+  ],
+  "software engineering": [
+    "154"
+  ],
+  "sorting": [
+    "81",
+    "151"
+  ],
+  "sparse arrays": [
+    "184"
+  ],
+  "specialization": [
+    "190"
+  ],
+  "stale data": [
+    "147",
+    "148",
+    "149",
+    "158"
+  ],
+  "standards": [
+    "35",
+    "94",
+    "113",
+    "169"
+  ],
+  "state": [
+    "96",
+    "150"
+  ],
+  "statics": [
+    "147",
+    "148"
+  ],
+  "streams": [
+    "214"
+  ],
+  "strings": [
+    "161"
+  ],
+  "strong typing": [
+    "64",
+    "65"
+  ],
+  "structure": [
+    "119"
+  ],
+  "stubbornness": [
+    "88"
+  ],
+  "taint-checking": [
+    "140"
+  ],
+  "teaching": [
+    "144",
+    "164",
+    "172",
+    "196"
+  ],
+  "teams": [
+    "226"
+  ],
+  "teamwork": [
+    "25",
+    "85",
+    "101",
+    "112",
+    "181"
+  ],
+  "telecommuting": [
+    "136"
+  ],
+  "teleconferencing": [
+    "136"
+  ],
+  "testing": [
+    "7",
+    "24",
+    "29",
+    "37",
+    "44",
+    "58",
+    "77",
+    "135",
+    "142",
+    "165",
+    "182"
+  ],
+  "third-party code": [
+    "91",
+    "179",
+    "195",
+    "199"
+  ],
+  "thoroughness": [
+    "206"
+  ],
+  "thread safety": [
+    "96",
+    "126"
+  ],
+  "threads": [
+    "121"
+  ],
+  "time": [
+    "128",
+    "166"
+  ],
+  "top-down approach": [
+    "229"
+  ],
+  "transactions": [
+    "75",
+    "195",
+    "211",
+    "219"
+  ],
+  "translation": [
+    "132"
+  ],
+  "triggers": [
+    "42"
+  ],
+  "trust": [
+    "140",
+    "183",
+    "197"
+  ],
+  "truth": [
+    "201"
+  ],
+  "type coercion": [
+    "161"
+  ],
+  "type safety": [
+    "104",
+    "167"
+  ],
+  "types": [
+    "143"
+  ],
+  "undo": [
+    "150",
+    "191",
+    "192"
+  ],
+  "unit testing": [
+    "135",
+    "142"
+  ],
+  "unknowns": [
+    "225"
+  ],
+  "usability": [
+    "231"
+  ],
+  "user experience": [
+    "146",
+    "191",
+    "192"
+  ],
+  "user interfaces": [
+    "183",
+    "191",
+    "192",
+    "231"
+  ],
+  "utilities": [
+    "129",
+    "155",
+    "167"
+  ],
+  "vacation": [
+    "163"
+  ],
+  "version control": [
+    "41",
+    "89"
+  ],
+  "vicious circles": [
+    "139"
+  ],
+  "void": [
+    "5"
+  ],
+  "warnings": [
+    "224"
+  ],
+  "waterfall model": [
+    "154"
+  ],
+  "web interfaces": [
+    "87",
+    "146"
+  ],
+  "women in tech": [
+    "139"
+  ],
+  "work-life balance": [
+    "125"
+  ],
+  "writing": [
+    "144"
+  ],
+  "yes-men": [
+    "141",
+    "153"
+  ],
+  "zero": [
+    "20",
+    "27",
+    "47",
+    "90"
+  ]
+}

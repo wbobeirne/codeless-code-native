@@ -1,0 +1,6 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.sketch
+content/**/*.md
+content/**/*.html

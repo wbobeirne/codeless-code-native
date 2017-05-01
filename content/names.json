@@ -1,0 +1,833 @@
+{
+  "Abbey of Hidden Absurdities": {
+    "name": "Abbey of Hidden Absurdities",
+    "type": "place",
+    "cases": [
+      "161"
+    ]
+  },
+  "Banzen": {
+    "name": "Banzen",
+    "type": "person",
+    "cases": [
+      "13",
+      "26",
+      "32",
+      "38",
+      "44",
+      "46",
+      "49",
+      "52",
+      "58",
+      "66",
+      "68",
+      "72",
+      "78",
+      "79",
+      "86",
+      "87",
+      "92",
+      "98",
+      "100",
+      "102",
+      "105",
+      "108",
+      "109",
+      "111",
+      "115",
+      "119",
+      "121",
+      "124",
+      "126",
+      "127",
+      "134",
+      "138",
+      "142",
+      "152",
+      "160",
+      "162",
+      "164",
+      "167",
+      "171",
+      "174",
+      "177",
+      "182",
+      "183",
+      "186",
+      "188",
+      "190",
+      "197",
+      "199",
+      "202",
+      "204",
+      "210",
+      "211",
+      "214",
+      "221",
+      "222",
+      "223",
+      "226",
+      "231",
+      "232"
+    ]
+  },
+  "Bawan": {
+    "name": "Bawan",
+    "type": "person",
+    "cases": [
+      "29",
+      "30",
+      "47",
+      "57",
+      "70",
+      "79",
+      "80",
+      "81",
+      "93",
+      "103",
+      "110",
+      "114",
+      "122",
+      "127",
+      "131",
+      "140",
+      "147",
+      "148",
+      "157",
+      "179",
+      "183",
+      "187",
+      "188",
+      "191",
+      "192",
+      "195",
+      "207",
+      "209",
+      "211"
+    ]
+  },
+  "Clan of Infinite Sorrows": {
+    "name": "Clan of Infinite Sorrows",
+    "type": "clan",
+    "cases": [
+      "147"
+    ]
+  },
+  "Clan of Iron Bones": {
+    "name": "Clan of Iron Bones",
+    "type": "clan",
+    "cases": [
+      "28",
+      "60",
+      "73",
+      "76",
+      "77",
+      "122",
+      "128",
+      "136",
+      "166",
+      "170",
+      "197"
+    ]
+  },
+  "Clan of the Wolf's Bitter Breath": {
+    "name": "Clan of the Wolf's Bitter Breath",
+    "type": "clan",
+    "cases": [
+      "58",
+      "152"
+    ]
+  },
+  "Complex Plain": {
+    "name": "Complex Plain",
+    "type": "place",
+    "cases": [
+      "138"
+    ]
+  },
+  "Djishin": {
+    "name": "Djishin",
+    "type": "person",
+    "cases": [
+      "58",
+      "75",
+      "78",
+      "108",
+      "109",
+      "134",
+      "138",
+      "143",
+      "144",
+      "152",
+      "160",
+      "167",
+      "171",
+      "177",
+      "190",
+      "199",
+      "206",
+      "232"
+    ]
+  },
+  "Drowning Temple": {
+    "name": "Drowning Temple",
+    "type": "place",
+    "cases": [
+      "196"
+    ]
+  },
+  "Drunken Serpent's Road": {
+    "name": "Drunken Serpent's Road",
+    "type": "place",
+    "cases": [
+      "147"
+    ]
+  },
+  "Eku": {
+    "name": "Eku",
+    "type": "person",
+    "cases": [
+      "158",
+      "173",
+      "192",
+      "201",
+      "207"
+    ]
+  },
+  "Eku's parrot": {
+    "name": "Eku's parrot",
+    "type": "person",
+    "cases": [
+      "192",
+      "207"
+    ]
+  },
+  "Elephant's Footprint Clan": {
+    "name": "Elephant's Footprint Clan",
+    "type": "clan",
+    "cases": [
+      "10",
+      "11",
+      "12",
+      "17",
+      "18",
+      "20",
+      "36",
+      "42",
+      "56",
+      "73",
+      "75",
+      "110",
+      "122",
+      "147",
+      "152",
+      "179",
+      "195",
+      "212",
+      "213",
+      "226"
+    ]
+  },
+  "Hall of Irresistable Somnolence": {
+    "name": "Hall of Irresistable Somnolence",
+    "type": "place",
+    "cases": [
+      "230"
+    ]
+  },
+  "Harmful Go-To Clan": {
+    "name": "Harmful Go-To Clan",
+    "type": "clan",
+    "cases": [
+      "122"
+    ]
+  },
+  "Huisheng": {
+    "name": "Huisheng",
+    "type": "person",
+    "cases": [
+      "28",
+      "48"
+    ]
+  },
+  "Hungry Worm Clan": {
+    "name": "Hungry Worm Clan",
+    "type": "clan",
+    "cases": [
+      "230"
+    ]
+  },
+  "Hwídah": {
+    "name": "Hwídah",
+    "type": "person",
+    "cases": [
+      "54",
+      "56",
+      "73",
+      "74",
+      "101",
+      "112",
+      "132",
+      "151",
+      "152",
+      "171",
+      "197",
+      "204",
+      "208",
+      "211",
+      "224",
+      "225"
+    ]
+  },
+  "Jinyu": {
+    "name": "Jinyu",
+    "type": "person",
+    "cases": [
+      "27",
+      "29",
+      "35",
+      "43",
+      "49",
+      "67",
+      "82",
+      "83",
+      "106",
+      "141",
+      "159",
+      "172",
+      "184",
+      "187",
+      "199",
+      "201",
+      "226"
+    ]
+  },
+  "Kaimu": {
+    "name": "Kaimu",
+    "type": "person",
+    "cases": [
+      "20",
+      "24",
+      "31",
+      "64",
+      "65",
+      "71",
+      "85",
+      "90",
+      "96",
+      "97",
+      "107",
+      "124",
+      "127",
+      "130",
+      "143",
+      "144",
+      "149",
+      "150",
+      "154",
+      "158",
+      "172",
+      "175",
+      "176",
+      "183",
+      "187",
+      "188",
+      "193",
+      "198",
+      "206",
+      "214",
+      "220",
+      "228"
+    ]
+  },
+  "Landhwa": {
+    "name": "Landhwa",
+    "type": "person",
+    "cases": [
+      "84",
+      "91",
+      "97",
+      "120",
+      "129",
+      "146",
+      "165",
+      "178",
+      "194",
+      "206",
+      "209",
+      "216"
+    ]
+  },
+  "Laughing Monkey Clan": {
+    "name": "Laughing Monkey Clan",
+    "type": "clan",
+    "cases": [
+      "6",
+      "7",
+      "12",
+      "22",
+      "36",
+      "37",
+      "43",
+      "45",
+      "49",
+      "52",
+      "72",
+      "78",
+      "104",
+      "110",
+      "113",
+      "116",
+      "135",
+      "147",
+      "160",
+      "193",
+      "212",
+      "215",
+      "226"
+    ]
+  },
+  "Lost Hermitage": {
+    "name": "Lost Hermitage",
+    "type": "place",
+    "cases": [
+      "147"
+    ]
+  },
+  "Luohou": {
+    "name": "Luohou",
+    "type": "person",
+    "cases": [
+      "44",
+      "58"
+    ]
+  },
+  "Mizuh": {
+    "name": "Mizuh",
+    "type": "person",
+    "cases": [
+      "190"
+    ]
+  },
+  "Mudána": {
+    "name": "Mudána",
+    "type": "person",
+    "cases": [
+      "206",
+      "207"
+    ]
+  },
+  "Mugen": {
+    "name": "Mugen",
+    "type": "person",
+    "cases": [
+      "158",
+      "173",
+      "201"
+    ]
+  },
+  "Myong": {
+    "name": "Myong",
+    "type": "person",
+    "cases": [
+      "76"
+    ]
+  },
+  "Nabasu": {
+    "name": "Nabasu",
+    "type": "person",
+    "cases": [
+      "206"
+    ]
+  },
+  "Nimble Roadrunner Clan": {
+    "name": "Nimble Roadrunner Clan",
+    "type": "clan",
+    "cases": [
+      "227"
+    ]
+  },
+  "One Shoe Clan": {
+    "name": "One Shoe Clan",
+    "type": "clan",
+    "cases": [
+      "23",
+      "78",
+      "79",
+      "134"
+    ]
+  },
+  "Province of Eternal Crisis": {
+    "name": "Province of Eternal Crisis",
+    "type": "place",
+    "cases": [
+      "138"
+    ]
+  },
+  "Qi": {
+    "name": "Qi",
+    "type": "person",
+    "cases": [
+      "19",
+      "27",
+      "50",
+      "66",
+      "69",
+      "79",
+      "89",
+      "137",
+      "157",
+      "163",
+      "169",
+      "212",
+      "215"
+    ]
+  },
+  "Red Pebble Clan": {
+    "name": "Red Pebble Clan",
+    "type": "clan",
+    "cases": [
+      "230"
+    ]
+  },
+  "Ru Cheen": {
+    "name": "Ru Cheen",
+    "type": "person",
+    "cases": [
+      "212"
+    ]
+  },
+  "Ruh Cheen": {
+    "name": "Ruh Cheen",
+    "type": "person",
+    "cases": [
+      "201",
+      "202",
+      "210",
+      "226"
+    ]
+  },
+  "Satou": {
+    "name": "Satou",
+    "type": "person",
+    "cases": [
+      "108",
+      "109",
+      "121",
+      "126",
+      "130",
+      "142",
+      "148",
+      "149",
+      "152",
+      "183",
+      "221",
+      "222",
+      "223",
+      "232"
+    ]
+  },
+  "Seven-Clawed Blind Eagle Clan": {
+    "name": "Seven-Clawed Blind Eagle Clan",
+    "type": "clan",
+    "cases": [
+      "16",
+      "26"
+    ]
+  },
+  "Shinpuru": {
+    "name": "Shinpuru",
+    "type": "person",
+    "cases": [
+      "125",
+      "127",
+      "145",
+      "180",
+      "181",
+      "212"
+    ]
+  },
+  "Sparrow Clan": {
+    "name": "Sparrow Clan",
+    "type": "clan",
+    "cases": [
+      "35",
+      "36"
+    ]
+  },
+  "Spider Clan": {
+    "name": "Spider Clan",
+    "type": "clan",
+    "cases": [
+      "4",
+      "9",
+      "12",
+      "37",
+      "52",
+      "61",
+      "62",
+      "67",
+      "88",
+      "90",
+      "94",
+      "95",
+      "104",
+      "110",
+      "120",
+      "125",
+      "135",
+      "142",
+      "145",
+      "147",
+      "152",
+      "161",
+      "165",
+      "167",
+      "174",
+      "183",
+      "199",
+      "201",
+      "212",
+      "216",
+      "226"
+    ]
+  },
+  "Subashikoi": {
+    "name": "Subashikoi",
+    "type": "person",
+    "cases": [
+      "125"
+    ]
+  },
+  "Suku": {
+    "name": "Suku",
+    "type": "person",
+    "cases": [
+      "34",
+      "39",
+      "41",
+      "61",
+      "62",
+      "67",
+      "79",
+      "84",
+      "85",
+      "88",
+      "89",
+      "91",
+      "94",
+      "95",
+      "100",
+      "102",
+      "104",
+      "111",
+      "117",
+      "119",
+      "120",
+      "123",
+      "127",
+      "133",
+      "139",
+      "142",
+      "153",
+      "155",
+      "156",
+      "168",
+      "174",
+      "188",
+      "189",
+      "196",
+      "201",
+      "205",
+      "217",
+      "229",
+      "233"
+    ]
+  },
+  "Swooping Falcon Clan": {
+    "name": "Swooping Falcon Clan",
+    "type": "clan",
+    "cases": [
+      "227",
+      "231"
+    ]
+  },
+  "Taw-Jieh": {
+    "name": "Taw-Jieh",
+    "type": "person",
+    "cases": [
+      "116"
+    ]
+  },
+  "Temple of Three Stones": {
+    "name": "Temple of Three Stones",
+    "type": "place",
+    "cases": [
+      "5",
+      "15"
+    ]
+  },
+  "Temple of the Burning Pool": {
+    "name": "Temple of the Burning Pool",
+    "type": "place",
+    "cases": [
+      "179"
+    ]
+  },
+  "Temple of the Morning Brass Gong": {
+    "name": "Temple of the Morning Brass Gong",
+    "type": "place",
+    "cases": [
+      "24",
+      "35",
+      "48",
+      "80",
+      "139",
+      "144"
+    ]
+  },
+  "Temple of the Thrown Coin": {
+    "name": "Temple of the Thrown Coin",
+    "type": "place",
+    "cases": [
+      "139"
+    ]
+  },
+  "Temple of the White Iron Sky": {
+    "name": "Temple of the White Iron Sky",
+    "type": "place",
+    "cases": [
+      "5",
+      "143",
+      "144"
+    ]
+  },
+  "The Backwards Monk": {
+    "name": "The Backwards Monk",
+    "type": "person",
+    "cases": [
+      "44"
+    ]
+  },
+  "Tongshing": {
+    "name": "Tongshing",
+    "type": "person",
+    "cases": [
+      "203"
+    ]
+  },
+  "Tower of the Elephant's Tusk": {
+    "name": "Tower of the Elephant's Tusk",
+    "type": "place",
+    "cases": [
+      "143"
+    ]
+  },
+  "Wangohan": {
+    "name": "Wangohan",
+    "type": "person",
+    "cases": [
+      "84",
+      "88",
+      "91",
+      "99",
+      "120",
+      "129",
+      "135",
+      "146",
+      "165",
+      "178",
+      "183",
+      "194",
+      "201",
+      "206",
+      "219"
+    ]
+  },
+  "Yaqqana": {
+    "name": "Yaqqana",
+    "type": "person",
+    "cases": [
+      "168"
+    ]
+  },
+  "Yishi-Shing": {
+    "name": "Yishi-Shing",
+    "type": "person",
+    "cases": [
+      "60",
+      "73",
+      "74",
+      "77",
+      "112",
+      "127",
+      "147",
+      "166",
+      "170",
+      "197"
+    ]
+  },
+  "Yíwen": {
+    "name": "Yíwen",
+    "type": "person",
+    "cases": [
+      "54",
+      "56",
+      "73",
+      "74",
+      "101",
+      "112",
+      "132",
+      "136",
+      "151",
+      "152",
+      "186",
+      "200",
+      "208",
+      "211",
+      "218"
+    ]
+  },
+  "Zjing": {
+    "name": "Zjing",
+    "type": "person",
+    "cases": [
+      "23",
+      "45",
+      "54",
+      "56",
+      "63",
+      "91",
+      "99",
+      "113",
+      "136",
+      "146",
+      "174",
+      "178",
+      "182",
+      "183",
+      "194",
+      "197",
+      "201",
+      "202",
+      "206",
+      "210",
+      "213",
+      "226",
+      "227",
+      "230"
+    ]
+  },
+  "Zjing's Bridge": {
+    "name": "Zjing's Bridge",
+    "type": "place",
+    "cases": [
+      "54",
+      "88",
+      "89",
+      "99",
+      "114",
+      "154"
+    ]
+  }
+}

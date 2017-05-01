@@ -1,0 +1,1376 @@
+{
+  "1": {
+    "id": 1,
+    "name": "The Applicant: The Hermit",
+    "geekiness": 2,
+    "date": "2012-08-05"
+  },
+  "2": {
+    "id": 2,
+    "name": "Unknown Unknowns",
+    "geekiness": 0,
+    "date": "2010-11-04"
+  },
+  "3": {
+    "id": 3,
+    "name": "Encapsulation",
+    "geekiness": 2,
+    "date": "2010-11-08"
+  },
+  "4": {
+    "id": 4,
+    "name": "Willows",
+    "geekiness": 0,
+    "date": "2010-11-08"
+  },
+  "5": {
+    "id": 5,
+    "name": "Void",
+    "geekiness": 2,
+    "date": "2010-11-09"
+  },
+  "6": {
+    "id": 6,
+    "name": "Empty",
+    "geekiness": 3,
+    "date": "2010-11-09"
+  },
+  "7": {
+    "id": 7,
+    "name": "The Enemy of the Good",
+    "geekiness": 1,
+    "date": "2010-11-09"
+  },
+  "8": {
+    "id": 8,
+    "name": "Reduce, Reuse, Recycle",
+    "geekiness": 0,
+    "date": "2010-11-10"
+  },
+  "9": {
+    "id": 9,
+    "name": "Infinities",
+    "geekiness": 1,
+    "date": "2010-11-10"
+  },
+  "10": {
+    "id": 10,
+    "name": "Pride",
+    "geekiness": 1,
+    "date": "2010-11-11"
+  },
+  "11": {
+    "id": 11,
+    "name": "Cages",
+    "geekiness": 2,
+    "date": "2010-11-11"
+  },
+  "12": {
+    "id": 12,
+    "name": "Effect",
+    "geekiness": 1,
+    "date": "2010-11-11"
+  },
+  "13": {
+    "id": 13,
+    "name": "Evolution",
+    "geekiness": 0,
+    "date": "2010-11-12"
+  },
+  "14": {
+    "id": 14,
+    "name": "Hello, World",
+    "geekiness": 1,
+    "date": "2010-11-13"
+  },
+  "15": {
+    "id": 15,
+    "name": "Immutable",
+    "geekiness": 3,
+    "date": "2010-11-14"
+  },
+  "16": {
+    "id": 16,
+    "name": "Documentation",
+    "geekiness": 0,
+    "date": "2010-11-15"
+  },
+  "17": {
+    "id": 17,
+    "name": "Not Invented By Me",
+    "geekiness": 1,
+    "date": "2010-11-16"
+  },
+  "18": {
+    "id": 18,
+    "name": "Necessary Features",
+    "geekiness": 1,
+    "date": "2010-11-17"
+  },
+  "19": {
+    "id": 19,
+    "name": "By Any Other Name",
+    "geekiness": 2,
+    "date": "2010-11-18"
+  },
+  "20": {
+    "id": 20,
+    "name": "Neither Yes Nor No",
+    "geekiness": 2,
+    "date": "2010-11-20"
+  },
+  "21": {
+    "id": 21,
+    "name": "Interrupt",
+    "geekiness": 2,
+    "date": "2010-11-21"
+  },
+  "22": {
+    "id": 22,
+    "name": "Safety",
+    "geekiness": 2,
+    "date": "2010-11-23"
+  },
+  "23": {
+    "id": 23,
+    "name": "Shape",
+    "geekiness": 0,
+    "date": "2010-11-25"
+  },
+  "24": {
+    "id": 24,
+    "name": "The Red Notebook",
+    "geekiness": 1,
+    "date": "2010-11-25"
+  },
+  "25": {
+    "id": 25,
+    "name": "Compromise",
+    "geekiness": 0,
+    "date": "2010-11-25"
+  },
+  "26": {
+    "id": 26,
+    "name": "The Uncorrected Monk",
+    "geekiness": 0,
+    "date": "2010-11-26"
+  },
+  "27": {
+    "id": 27,
+    "name": "Koan Zero",
+    "geekiness": 0,
+    "date": "2011-03-26"
+  },
+  "28": {
+    "id": 28,
+    "name": "Echo",
+    "geekiness": 1,
+    "date": "2011-03-26"
+  },
+  "29": {
+    "id": 29,
+    "name": "Goldfish",
+    "geekiness": 1,
+    "date": "2011-03-26"
+  },
+  "30": {
+    "id": 30,
+    "name": "Cups",
+    "geekiness": 3,
+    "date": "2011-03-26"
+  },
+  "31": {
+    "id": 31,
+    "name": "The Eloquent Sandal",
+    "geekiness": 2,
+    "date": "2011-03-29"
+  },
+  "32": {
+    "id": 32,
+    "name": "Weeds",
+    "geekiness": 0,
+    "date": "2011-03-29"
+  },
+  "33": {
+    "id": 33,
+    "name": "Fear",
+    "geekiness": 1,
+    "date": "2011-04-20"
+  },
+  "34": {
+    "id": 34,
+    "name": "The Naming of Names",
+    "geekiness": 2,
+    "date": "2011-04-20"
+  },
+  "35": {
+    "id": 35,
+    "name": "Sparrow Breaks Free",
+    "geekiness": 2,
+    "date": "2011-05-01"
+  },
+  "36": {
+    "id": 36,
+    "name": "Division",
+    "geekiness": 0,
+    "date": "2011-05-15"
+  },
+  "37": {
+    "id": 37,
+    "name": "Simulation",
+    "geekiness": 2,
+    "date": "2011-06-07"
+  },
+  "38": {
+    "id": 38,
+    "name": "Language",
+    "geekiness": 0,
+    "date": "2011-05-05"
+  },
+  "39": {
+    "id": 39,
+    "name": "The River of Tea",
+    "geekiness": 2,
+    "date": "2011-05-12"
+  },
+  "40": {
+    "id": 40,
+    "name": "Authority",
+    "geekiness": 0,
+    "date": "2011-05-12"
+  },
+  "41": {
+    "id": 41,
+    "name": "Garbage",
+    "geekiness": 2,
+    "date": "2011-03-24"
+  },
+  "42": {
+    "id": 42,
+    "name": "Triggers",
+    "geekiness": 3,
+    "date": "2011-05-18"
+  },
+  "43": {
+    "id": 43,
+    "name": "Holes",
+    "geekiness": 2,
+    "date": "2011-06-08"
+  },
+  "44": {
+    "id": 44,
+    "name": "The Backwards Monk",
+    "geekiness": 1,
+    "date": "2012-07-04"
+  },
+  "45": {
+    "id": 45,
+    "name": "Full Circle",
+    "geekiness": 3,
+    "date": "2012-07-08"
+  },
+  "46": {
+    "id": 46,
+    "name": "The Greatest Aspiration",
+    "geekiness": 1,
+    "date": "2012-07-09"
+  },
+  "47": {
+    "id": 47,
+    "name": "The Origin of All",
+    "geekiness": 2,
+    "date": "2012-07-15"
+  },
+  "48": {
+    "id": 48,
+    "name": "Silence",
+    "geekiness": 1,
+    "date": "2012-07-20"
+  },
+  "49": {
+    "id": 49,
+    "name": "Banzen's investigation",
+    "geekiness": 0,
+    "date": "2012-07-28"
+  },
+  "50": {
+    "id": 50,
+    "name": "Adapter",
+    "geekiness": 2,
+    "date": "2013-08-03"
+  },
+  "52": {
+    "id": 52,
+    "name": "Buckets",
+    "geekiness": 0,
+    "date": "2012-08-17"
+  },
+  "54": {
+    "id": 54,
+    "name": "Knots",
+    "geekiness": 1,
+    "date": "2012-09-02"
+  },
+  "56": {
+    "id": 56,
+    "name": "Bear Necessities",
+    "geekiness": 0,
+    "date": "2012-09-12"
+  },
+  "57": {
+    "id": 57,
+    "name": "Precision",
+    "geekiness": 2,
+    "date": "2012-09-16"
+  },
+  "58": {
+    "id": 58,
+    "name": "Enough to Hang Yourself By",
+    "geekiness": 2,
+    "date": "2012-09-19"
+  },
+  "60": {
+    "id": 60,
+    "name": "The Watchdog",
+    "geekiness": 1,
+    "date": "2012-09-30"
+  },
+  "61": {
+    "id": 61,
+    "name": "Weight",
+    "geekiness": 1,
+    "date": "2012-10-02"
+  },
+  "62": {
+    "id": 62,
+    "name": "Confusion",
+    "geekiness": 1,
+    "date": "2012-10-06"
+  },
+  "63": {
+    "id": 63,
+    "name": "Shackles",
+    "geekiness": 2,
+    "date": "2012-10-13"
+  },
+  "64": {
+    "id": 64,
+    "name": "Three Beggars",
+    "geekiness": 3,
+    "date": "2012-10-21"
+  },
+  "65": {
+    "id": 65,
+    "name": "Two Choices",
+    "geekiness": 3,
+    "date": "2012-10-28"
+  },
+  "66": {
+    "id": 66,
+    "name": "Porpoise",
+    "geekiness": 0,
+    "date": "2012-11-04"
+  },
+  "67": {
+    "id": 67,
+    "name": "Grease",
+    "geekiness": 1,
+    "date": "2012-11-11"
+  },
+  "68": {
+    "id": 68,
+    "name": "Decay",
+    "geekiness": 0,
+    "date": "2012-11-17"
+  },
+  "69": {
+    "id": 69,
+    "name": "Up To Date",
+    "geekiness": 2,
+    "date": "2012-11-25"
+  },
+  "70": {
+    "id": 70,
+    "name": "System",
+    "geekiness": 2,
+    "date": "2012-12-02"
+  },
+  "71": {
+    "id": 71,
+    "name": "The Six Unwelcome Hosts",
+    "geekiness": 3,
+    "date": "2012-12-08"
+  },
+  "72": {
+    "id": 72,
+    "name": "Too Eager",
+    "geekiness": 3,
+    "date": "2012-12-15"
+  },
+  "73": {
+    "id": 73,
+    "name": "The White Pearl",
+    "geekiness": 2,
+    "date": "2012-12-24"
+  },
+  "74": {
+    "id": 74,
+    "name": "Bathwater",
+    "geekiness": 2,
+    "date": "2012-12-30"
+  },
+  "75": {
+    "id": 75,
+    "name": "Fear of Commitment",
+    "geekiness": 2,
+    "date": "2013-01-05"
+  },
+  "76": {
+    "id": 76,
+    "name": "Myong's Cat",
+    "geekiness": 3,
+    "date": "2013-01-12"
+  },
+  "77": {
+    "id": 77,
+    "name": "The Upside-Down Abbey",
+    "geekiness": 0,
+    "date": "2013-01-19"
+  },
+  "78": {
+    "id": 78,
+    "name": "Crashing the Third Gate",
+    "geekiness": 1,
+    "date": "2013-01-20"
+  },
+  "79": {
+    "id": 79,
+    "name": "Cave Canem",
+    "geekiness": 1,
+    "date": "2013-02-03"
+  },
+  "80": {
+    "id": 80,
+    "name": "A Breed Apart",
+    "geekiness": 0,
+    "date": "2013-02-06"
+  },
+  "81": {
+    "id": 81,
+    "name": "Bubble Sort",
+    "geekiness": 1,
+    "date": "2013-02-15"
+  },
+  "82": {
+    "id": 82,
+    "name": "Jinyu's Tack",
+    "geekiness": 2,
+    "date": "2013-02-24"
+  },
+  "83": {
+    "id": 83,
+    "name": "Consequences",
+    "geekiness": 2,
+    "date": "2013-03-03"
+  },
+  "84": {
+    "id": 84,
+    "name": "What It Says On The Tin",
+    "geekiness": 2,
+    "date": "2013-03-10"
+  },
+  "85": {
+    "id": 85,
+    "name": "Suku's Golden Mean",
+    "geekiness": 3,
+    "date": "2013-03-17"
+  },
+  "86": {
+    "id": 86,
+    "name": "Liberation",
+    "geekiness": 1,
+    "date": "2013-03-24"
+  },
+  "87": {
+    "id": 87,
+    "name": "The Concubine's Fog",
+    "geekiness": 3,
+    "date": "2013-03-31"
+  },
+  "88": {
+    "id": 88,
+    "name": "Suku's Adviser",
+    "geekiness": 1,
+    "date": "2013-04-07"
+  },
+  "89": {
+    "id": 89,
+    "name": "Version Control",
+    "geekiness": 2,
+    "date": "2013-04-10"
+  },
+  "90": {
+    "id": 90,
+    "name": "Not A Number",
+    "geekiness": 3,
+    "date": "2013-04-21"
+  },
+  "91": {
+    "id": 91,
+    "name": "The Soul of Wit",
+    "geekiness": 1,
+    "date": "2013-04-30"
+  },
+  "92": {
+    "id": 92,
+    "name": "Still Waters",
+    "geekiness": 0,
+    "date": "2013-05-03"
+  },
+  "93": {
+    "id": 93,
+    "name": "You Take the High Road",
+    "geekiness": 2,
+    "date": "2013-05-11"
+  },
+  "94": {
+    "id": 94,
+    "name": "Conventions",
+    "geekiness": 2,
+    "date": "2013-05-18"
+  },
+  "95": {
+    "id": 95,
+    "name": "Roses are Red",
+    "geekiness": 3,
+    "date": "2013-05-25"
+  },
+  "96": {
+    "id": 96,
+    "name": "Stateless",
+    "geekiness": 2,
+    "date": "2013-06-01"
+  },
+  "97": {
+    "id": 97,
+    "name": "Flammable",
+    "geekiness": 3,
+    "date": "2013-06-08"
+  },
+  "98": {
+    "id": 98,
+    "name": "Anti Matter",
+    "geekiness": 2,
+    "date": "2013-06-13"
+  },
+  "99": {
+    "id": 99,
+    "name": "Queen Error",
+    "geekiness": 2,
+    "date": "2013-06-22"
+  },
+  "100": {
+    "id": 100,
+    "name": "Ten Thousand Mistakes",
+    "geekiness": 0,
+    "date": "2013-06-24"
+  },
+  "101": {
+    "id": 101,
+    "name": "Accountability",
+    "geekiness": 1,
+    "date": "2013-07-05"
+  },
+  "102": {
+    "id": 102,
+    "name": "Paddle",
+    "geekiness": 1,
+    "date": "2013-07-12"
+  },
+  "103": {
+    "id": 103,
+    "name": "The Black Enamel Box",
+    "geekiness": 2,
+    "date": "2013-07-21"
+  },
+  "104": {
+    "id": 104,
+    "name": "Guardrails",
+    "geekiness": 2,
+    "date": "2013-07-28"
+  },
+  "105": {
+    "id": 105,
+    "name": "Navigation",
+    "geekiness": 1,
+    "date": "2013-08-03"
+  },
+  "106": {
+    "id": 106,
+    "name": "The \"I\" In Team",
+    "geekiness": 0,
+    "date": "2013-08-15"
+  },
+  "107": {
+    "id": 107,
+    "name": "Babel",
+    "geekiness": 2,
+    "date": "2013-08-23"
+  },
+  "108": {
+    "id": 108,
+    "name": "Sweet Tooth",
+    "geekiness": 3,
+    "date": "2013-09-01"
+  },
+  "109": {
+    "id": 109,
+    "name": "The Ties that Bind",
+    "geekiness": 3,
+    "date": "2013-09-03"
+  },
+  "110": {
+    "id": 110,
+    "name": "The Trunk",
+    "geekiness": 2,
+    "date": "2013-09-15"
+  },
+  "111": {
+    "id": 111,
+    "name": "Labyrinth",
+    "geekiness": 1,
+    "date": "2013-09-17"
+  },
+  "112": {
+    "id": 112,
+    "name": "Speak to Me",
+    "geekiness": 2,
+    "date": "2013-09-21"
+  },
+  "113": {
+    "id": 113,
+    "name": "Black Sheep",
+    "geekiness": 2,
+    "date": "2013-10-07"
+  },
+  "114": {
+    "id": 114,
+    "name": "Character Assassination",
+    "geekiness": 1,
+    "date": "2013-10-11"
+  },
+  "115": {
+    "id": 115,
+    "name": "Pain",
+    "geekiness": 3,
+    "date": "2013-10-18"
+  },
+  "116": {
+    "id": 116,
+    "name": "Trust No One",
+    "geekiness": 1,
+    "date": "2013-10-24"
+  },
+  "117": {
+    "id": 117,
+    "name": "Bareback",
+    "geekiness": 3,
+    "date": "2013-11-01"
+  },
+  "118": {
+    "id": 118,
+    "name": "Clay",
+    "geekiness": 2,
+    "date": "2013-11-10"
+  },
+  "119": {
+    "id": 119,
+    "name": "Sushi",
+    "geekiness": 1,
+    "date": "2013-11-15"
+  },
+  "120": {
+    "id": 120,
+    "name": "Plug and Play",
+    "geekiness": 1,
+    "date": "2013-11-24"
+  },
+  "121": {
+    "id": 121,
+    "name": "Where Angels Fear to Thread",
+    "geekiness": 2,
+    "date": "2013-11-29"
+  },
+  "122": {
+    "id": 122,
+    "name": "Craftsmanship",
+    "geekiness": 1,
+    "date": "2013-12-07"
+  },
+  "123": {
+    "id": 123,
+    "name": "Order and Chaos",
+    "geekiness": 2,
+    "date": "2013-12-14"
+  },
+  "124": {
+    "id": 124,
+    "name": "The Hidden Variable",
+    "geekiness": 0,
+    "date": "2013-12-22"
+  },
+  "125": {
+    "id": 125,
+    "name": "Power",
+    "geekiness": 0,
+    "date": "2013-12-28"
+  },
+  "126": {
+    "id": 126,
+    "name": "Tea for Two",
+    "geekiness": 2,
+    "date": "2014-01-05"
+  },
+  "127": {
+    "id": 127,
+    "name": "State Change",
+    "geekiness": 1,
+    "date": "2014-01-12"
+  },
+  "128": {
+    "id": 128,
+    "name": "The Prison of Infinite Pleasures",
+    "geekiness": 3,
+    "date": "2014-01-19"
+  },
+  "129": {
+    "id": 129,
+    "name": "Like a Rolling Stone",
+    "geekiness": 2,
+    "date": "2014-01-27"
+  },
+  "130": {
+    "id": 130,
+    "name": "The First Mantra",
+    "geekiness": 1,
+    "date": "2014-02-03"
+  },
+  "131": {
+    "id": 131,
+    "name": "Don't Think",
+    "geekiness": 2,
+    "date": "2014-02-08"
+  },
+  "132": {
+    "id": 132,
+    "name": "Interpreter",
+    "geekiness": 3,
+    "date": "2014-02-15"
+  },
+  "133": {
+    "id": 133,
+    "name": "Dead Language",
+    "geekiness": 2,
+    "date": "2014-02-20"
+  },
+  "134": {
+    "id": 134,
+    "name": "Thin Ice",
+    "geekiness": 3,
+    "date": "2014-03-01"
+  },
+  "135": {
+    "id": 135,
+    "name": "Ass-Backwards Compatibility",
+    "geekiness": 2,
+    "date": "2014-03-09"
+  },
+  "136": {
+    "id": 136,
+    "name": "Unsupported Protocol",
+    "geekiness": 0,
+    "date": "2014-03-15"
+  },
+  "137": {
+    "id": 137,
+    "name": "The 1000 Words",
+    "geekiness": 3,
+    "date": "2014-03-23"
+  },
+  "138": {
+    "id": 138,
+    "name": "The Province of Eternal Crisis",
+    "geekiness": 2,
+    "date": "2014-03-30"
+  },
+  "139": {
+    "id": 139,
+    "name": "Feedback",
+    "geekiness": 0,
+    "date": "2014-04-05"
+  },
+  "140": {
+    "id": 140,
+    "name": "Heartbleed",
+    "geekiness": 2,
+    "date": "2014-04-13"
+  },
+  "141": {
+    "id": 141,
+    "name": "Ill Met By Moonlight",
+    "geekiness": 0,
+    "date": "2014-04-20"
+  },
+  "142": {
+    "id": 142,
+    "name": "The Blind Leading the Blind",
+    "geekiness": 2,
+    "date": "2014-04-27"
+  },
+  "143": {
+    "id": 143,
+    "name": "Monolith",
+    "geekiness": 3,
+    "date": "2014-05-04"
+  },
+  "144": {
+    "id": 144,
+    "name": "Mnemonic",
+    "geekiness": 1,
+    "date": "2014-05-11"
+  },
+  "145": {
+    "id": 145,
+    "name": "Five Years",
+    "geekiness": 1,
+    "date": "2014-05-18"
+  },
+  "146": {
+    "id": 146,
+    "name": "Box Model",
+    "geekiness": 2,
+    "date": "2014-05-25"
+  },
+  "147": {
+    "id": 147,
+    "name": "Bawan's Table",
+    "geekiness": 3,
+    "date": "2014-06-01"
+  },
+  "148": {
+    "id": 148,
+    "name": "Subtle Art",
+    "geekiness": 3,
+    "date": "2014-06-07"
+  },
+  "149": {
+    "id": 149,
+    "name": "The First Finger",
+    "geekiness": 2,
+    "date": "2014-06-14"
+  },
+  "150": {
+    "id": 150,
+    "name": "Undone",
+    "geekiness": 1,
+    "date": "2014-06-22"
+  },
+  "151": {
+    "id": 151,
+    "name": "The Summer Scarf",
+    "geekiness": 2,
+    "date": "2014-06-28"
+  },
+  "152": {
+    "id": 152,
+    "name": "What Lies Beneath",
+    "geekiness": 3,
+    "date": "2014-07-06"
+  },
+  "153": {
+    "id": 153,
+    "name": "The Red Circle",
+    "geekiness": 0,
+    "date": "2014-07-13"
+  },
+  "154": {
+    "id": 154,
+    "name": "A Bridge To Nowhere",
+    "geekiness": 1,
+    "date": "2014-07-20"
+  },
+  "155": {
+    "id": 155,
+    "name": "Don't Help",
+    "geekiness": 3,
+    "date": "2014-07-26"
+  },
+  "156": {
+    "id": 156,
+    "name": "The Garden Path",
+    "geekiness": 2,
+    "date": "2014-08-03"
+  },
+  "157": {
+    "id": 157,
+    "name": "Captive Audience",
+    "geekiness": 2,
+    "date": "2014-08-10"
+  },
+  "158": {
+    "id": 158,
+    "name": "Monday, Monday",
+    "geekiness": 2,
+    "date": "2014-08-17"
+  },
+  "159": {
+    "id": 159,
+    "name": "Blocks",
+    "geekiness": 0,
+    "date": "2014-08-25"
+  },
+  "160": {
+    "id": 160,
+    "name": "The Eye of the Beholder",
+    "geekiness": 1,
+    "date": "2014-08-31"
+  },
+  "161": {
+    "id": 161,
+    "name": "Triangle",
+    "geekiness": 3,
+    "date": "2014-09-08"
+  },
+  "162": {
+    "id": 162,
+    "name": "All According to Plan",
+    "geekiness": 1,
+    "date": "2014-09-15"
+  },
+  "163": {
+    "id": 163,
+    "name": "Vacation",
+    "geekiness": 0,
+    "date": "2014-09-23"
+  },
+  "164": {
+    "id": 164,
+    "name": "Paradox",
+    "geekiness": 0,
+    "date": "2014-09-30"
+  },
+  "165": {
+    "id": 165,
+    "name": "Failsafe",
+    "geekiness": 2,
+    "date": "2014-10-19"
+  },
+  "166": {
+    "id": 166,
+    "name": "Tempus Fugit",
+    "geekiness": 3,
+    "date": "2014-10-26"
+  },
+  "167": {
+    "id": 167,
+    "name": "Back to Basics",
+    "geekiness": 3,
+    "date": "2014-11-02"
+  },
+  "168": {
+    "id": 168,
+    "name": "Horizontal, Vertical",
+    "geekiness": 2,
+    "date": "2014-11-09"
+  },
+  "169": {
+    "id": 169,
+    "name": "Best Practices",
+    "geekiness": 1,
+    "date": "2014-11-16"
+  },
+  "170": {
+    "id": 170,
+    "name": "The Purple Beggar",
+    "geekiness": 1,
+    "date": "2014-11-23"
+  },
+  "171": {
+    "id": 171,
+    "name": "Initial Conditions",
+    "geekiness": 3,
+    "date": "2014-11-30"
+  },
+  "172": {
+    "id": 172,
+    "name": "Lesson One",
+    "geekiness": 0,
+    "date": "2014-12-07"
+  },
+  "173": {
+    "id": 173,
+    "name": "Lost Peer",
+    "geekiness": 3,
+    "date": "2014-12-21"
+  },
+  "174": {
+    "id": 174,
+    "name": "Out of the Zone",
+    "geekiness": 0,
+    "date": "2014-12-28"
+  },
+  "175": {
+    "id": 175,
+    "name": "Flat Shark",
+    "geekiness": 2,
+    "date": "2015-01-01"
+  },
+  "176": {
+    "id": 176,
+    "name": "Many Happy Returns",
+    "geekiness": 2,
+    "date": "2015-01-11"
+  },
+  "177": {
+    "id": 177,
+    "name": "The Tool-Shed",
+    "geekiness": 2,
+    "date": "2015-01-19"
+  },
+  "178": {
+    "id": 178,
+    "name": "Unity",
+    "geekiness": 3,
+    "date": "2015-01-25"
+  },
+  "179": {
+    "id": 179,
+    "name": "Walking the Path",
+    "geekiness": 1,
+    "date": "2015-02-10"
+  },
+  "180": {
+    "id": 180,
+    "name": "Past Perfect",
+    "geekiness": 1,
+    "date": "2015-02-22"
+  },
+  "181": {
+    "id": 181,
+    "name": "Future Imperfect",
+    "geekiness": 1,
+    "date": "2015-03-01"
+  },
+  "182": {
+    "id": 182,
+    "name": "Mousetrap",
+    "geekiness": 2,
+    "date": "2015-03-08"
+  },
+  "183": {
+    "id": 183,
+    "name": "Choosing Your Battles",
+    "geekiness": 1,
+    "date": "2015-03-14"
+  },
+  "184": {
+    "id": 184,
+    "name": "Life",
+    "geekiness": 2,
+    "date": "2015-03-22"
+  },
+  "186": {
+    "id": 186,
+    "name": "Nothing, Forever",
+    "geekiness": 0,
+    "date": "2015-04-07"
+  },
+  "187": {
+    "id": 187,
+    "name": "Exit Interview",
+    "geekiness": 3,
+    "date": "2015-04-12"
+  },
+  "188": {
+    "id": 188,
+    "name": "Tough Love",
+    "geekiness": 0,
+    "date": "2015-04-18"
+  },
+  "189": {
+    "id": 189,
+    "name": "The Dense Forest",
+    "geekiness": 2,
+    "date": "2015-04-26"
+  },
+  "190": {
+    "id": 190,
+    "name": "To Make An Omelette",
+    "geekiness": 2,
+    "date": "2015-05-03"
+  },
+  "191": {
+    "id": 191,
+    "name": "The Four Words of Distress: Part One",
+    "geekiness": 2,
+    "date": "2015-05-18"
+  },
+  "192": {
+    "id": 192,
+    "name": "The Four Words of Distress: Part Two",
+    "geekiness": 2,
+    "date": "2015-05-25"
+  },
+  "193": {
+    "id": 193,
+    "name": "The Vicious Circle",
+    "geekiness": 1,
+    "date": "2015-05-31"
+  },
+  "194": {
+    "id": 194,
+    "name": "Stray",
+    "geekiness": 2,
+    "date": "2015-06-08"
+  },
+  "195": {
+    "id": 195,
+    "name": "The Magician's Code",
+    "geekiness": 3,
+    "date": "2015-06-15"
+  },
+  "196": {
+    "id": 196,
+    "name": "Fee",
+    "geekiness": 2,
+    "date": "2015-06-22"
+  },
+  "197": {
+    "id": 197,
+    "name": "Forgiveness",
+    "geekiness": 2,
+    "date": "2015-06-29"
+  },
+  "198": {
+    "id": 198,
+    "name": "This Too Shall Pass",
+    "geekiness": 0,
+    "date": "2015-07-05"
+  },
+  "199": {
+    "id": 199,
+    "name": "Unwitting Accomplice",
+    "geekiness": 2,
+    "date": "2015-07-12"
+  },
+  "200": {
+    "id": 200,
+    "name": "The Boolean",
+    "geekiness": 2,
+    "date": "2015-07-19"
+  },
+  "201": {
+    "id": 201,
+    "name": "Ignorance is Bliss",
+    "geekiness": 1,
+    "date": "2015-07-26"
+  },
+  "202": {
+    "id": 202,
+    "name": "Anchors Aweigh",
+    "geekiness": 2,
+    "date": "2015-08-15"
+  },
+  "203": {
+    "id": 203,
+    "name": "In the Stars",
+    "geekiness": 0,
+    "date": "2015-08-22"
+  },
+  "204": {
+    "id": 204,
+    "name": "Night Shift",
+    "geekiness": 2,
+    "date": "2015-08-30"
+  },
+  "205": {
+    "id": 205,
+    "name": "Plural Effusion",
+    "geekiness": 2,
+    "date": "2015-09-06"
+  },
+  "206": {
+    "id": 206,
+    "name": "Inaction Hero",
+    "geekiness": 1,
+    "date": "2015-09-13"
+  },
+  "207": {
+    "id": 207,
+    "name": "Parrot",
+    "geekiness": 1,
+    "date": "2015-09-20"
+  },
+  "208": {
+    "id": 208,
+    "name": "Wolf in the Fold",
+    "geekiness": 2,
+    "date": "2015-09-27"
+  },
+  "209": {
+    "id": 209,
+    "name": "Submerged",
+    "geekiness": 3,
+    "date": "2015-10-04"
+  },
+  "210": {
+    "id": 210,
+    "name": "Hygiene",
+    "geekiness": 2,
+    "date": "2015-10-13"
+  },
+  "211": {
+    "id": 211,
+    "name": "No Magic",
+    "geekiness": 3,
+    "date": "2015-10-18"
+  },
+  "212": {
+    "id": 212,
+    "name": "Seasons",
+    "geekiness": 1,
+    "date": "2015-11-01"
+  },
+  "213": {
+    "id": 213,
+    "name": "The Imperfect Mirror",
+    "geekiness": 3,
+    "date": "2015-11-08"
+  },
+  "214": {
+    "id": 214,
+    "name": "Streams of Consciousness",
+    "geekiness": 3,
+    "date": "2015-11-16"
+  },
+  "215": {
+    "id": 215,
+    "name": "FAQ",
+    "geekiness": 1,
+    "date": "2015-11-23"
+  },
+  "216": {
+    "id": 216,
+    "name": "Proxy",
+    "geekiness": 1,
+    "date": "2015-11-30"
+  },
+  "217": {
+    "id": 217,
+    "name": "The Chimera's Egg",
+    "geekiness": 2,
+    "date": "2015-12-08"
+  },
+  "218": {
+    "id": 218,
+    "name": "The Terminal Retrospectives: or, After the Deployment",
+    "geekiness": 2,
+    "date": "2016-01-02"
+  },
+  "219": {
+    "id": 219,
+    "name": "Nothing Really Matters",
+    "geekiness": 3,
+    "date": "2016-01-10"
+  },
+  "220": {
+    "id": 220,
+    "name": "The Two Hard Things",
+    "geekiness": 1,
+    "date": "2016-01-18"
+  },
+  "221": {
+    "id": 221,
+    "name": "Indigestion",
+    "geekiness": 3,
+    "date": "2016-01-25"
+  },
+  "222": {
+    "id": 222,
+    "name": "Stand-In",
+    "geekiness": 2,
+    "date": "2016-01-31"
+  },
+  "223": {
+    "id": 223,
+    "name": "Hidden Costs",
+    "geekiness": 1,
+    "date": "2016-02-15"
+  },
+  "224": {
+    "id": 224,
+    "name": "Unsupported Accusations",
+    "geekiness": 0,
+    "date": "2016-02-21"
+  },
+  "225": {
+    "id": 225,
+    "name": "The Three Most Terrifying Words",
+    "geekiness": 2,
+    "date": "2016-03-06"
+  },
+  "226": {
+    "id": 226,
+    "name": "Spring, Fall",
+    "geekiness": 1,
+    "date": "2016-03-14"
+  },
+  "227": {
+    "id": 227,
+    "name": "You Are What You Eat",
+    "geekiness": 2,
+    "date": "2016-04-10"
+  },
+  "228": {
+    "id": 228,
+    "name": "The Trembling Giant",
+    "geekiness": 1,
+    "date": "2016-04-17"
+  },
+  "229": {
+    "id": 229,
+    "name": "The Recommended Approach",
+    "geekiness": 2,
+    "date": "2016-05-30"
+  },
+  "230": {
+    "id": 230,
+    "name": "All Together Now",
+    "geekiness": 2,
+    "date": "2016-06-06"
+  },
+  "231": {
+    "id": 231,
+    "name": "Laziness",
+    "geekiness": 0,
+    "date": "2016-06-12"
+  },
+  "232": {
+    "id": 232,
+    "name": "Education",
+    "geekiness": 2,
+    "date": "2016-06-19"
+  },
+  "233": {
+    "id": 233,
+    "name": "The Falling and the Rising Rain",
+    "geekiness": 2,
+    "date": "2016-07-04"
+  },
+  "234": {
+    "id": 234,
+    "name": "Ozymandias",
+    "geekiness": 1,
+    "date": "2016-07-10"
+  }
+}

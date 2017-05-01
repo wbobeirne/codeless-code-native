@@ -1,0 +1,19 @@
+{
+  "name": "codeless-code",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null,
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "@expo/ex-navigation": "^2.11.1",
+    "expo": "16.0.0",
+    "react": "16.0.0-alpha.6",
+    "react-native": "https://github.com/exponent/react-native/archive/sdk-16.0.0.tar.gz",
+    "react-native-simple-markdown": "^1.0.60-rc.3"
+  },
+  "devDependencies": {
+    "cheerio": "^0.22.0",
+    "cheerio-req": "^1.1.4"
+  }
+}

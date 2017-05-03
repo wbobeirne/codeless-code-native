@@ -5,6 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import cacheAssetsAsync from './util/cacheAssetsAsync';
 import Router from './navigation/Router';
 import { NavigationProvider, StackNavigation } from '@expo/ex-navigation';
+import { LIGHTER } from './util/colors';
 
 class App extends React.Component {
   state = {
@@ -19,7 +20,8 @@ class App extends React.Component {
     try {
       await cacheAssetsAsync({
         fonts: [
-          { 'quintessential': require('./assets/fonts/Quintessential-Regular.ttf') },
+          { 'Quintessential': require('./assets/fonts/Quintessential-Regular.ttf') },
+          { 'Baskerville': require('./assets/fonts/LibreBaskerville-Regular.ttf') },
         ],
       });
     } catch (e) {
@@ -41,6 +43,7 @@ class App extends React.Component {
             <StackNavigation
               id="root"
               initialRoute={Router.getRoute('contents')}
+              defaultRouteConfig={{ sceneStyle: styles.sceneStyle }}
             />
           </NavigationProvider>
         </View>
@@ -54,7 +57,9 @@ class App extends React.Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+  },
+  sceneStyle: {
+    backgroundColor: LIGHTER,
   },
 });
 

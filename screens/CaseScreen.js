@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text } from 'react-native';
+import { View, Text, StyleSheet } from 'react-native';
 import { Asset } from 'expo';
 import caseMap from '../content/cases.json';
 import Markdown from 'react-native-simple-markdown';
@@ -37,3 +37,5 @@ export default class CaseScreen extends React.Component {
     );
   }
 }
+
+const styles = StyleSheet.create({});

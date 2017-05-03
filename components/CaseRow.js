@@ -1,9 +1,21 @@
 import React, { PropTypes } from 'react';
 import { StyleSheet, Text, View, TouchableHighlight } from 'react-native';
+import moment from 'moment';
+import { FONT_BODY } from '../util/styles';
+import { DARKEST, DARKER, GREY } from '../util/colors';
 
 export default class CaseRow extends React.Component {
+  state = {
+    time: "",
+  };
+
   constructor(props) {
     super(props);
+
+    this.state = {
+      date: moment(this.props.date, "YYYY-MM-DD").format("LL"),
+    };
+
     this._handlePress = this._handlePress.bind(this);
   }
 
@@ -26,11 +38,11 @@ export default class CaseRow extends React.Component {
         onPress={this._handlePress}
       >
         <View style={styles.container}>
-  				<Text style={styles.name}>
+  				<Text style={styles.name} numberOfLines={1}>
   					{this.props.id}: {this.props.name}
   				</Text>
   				<Text style={styles.date}>
-  					{this.props.date}
+  					{this.state.date}
   				</Text>
         </View>
       </TouchableHighlight>
@@ -48,8 +60,22 @@ CaseRow.propTypes = {
 
 const styles = StyleSheet.create({
   container: {
-    padding: 10,
+    paddingLeft: 20,
+    paddingRight: 20,
+    paddingTop: 15,
+    paddingBottom: 15,
     borderTopWidth: 1,
-    borderTopColor: "#CCC",
+    borderTopColor: GREY,
   },
+  name: {
+    ...FONT_BODY,
+    fontSize: 22,
+    paddingBottom: 6,
+    color: DARKEST,
+  },
+  date: {
+    ...FONT_BODY,
+    fontSize: 14,
+    color: DARKER,
+  }
 });

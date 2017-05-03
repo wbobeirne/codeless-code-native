@@ -20,7 +20,7 @@ caseIds.forEach((id) => {
 
 		switch(block.name) {
 			case "p":
-				// Nothing, a p's a p
+				contents = contents.replace(/(\r\n|\n|\r)/gm, " ");
 				break;
 
 			case "img":
